@@ -1,0 +1,6 @@
+Host: ec2-3-222-74-92.compute-1.amazonaws.com
+Database: dfo2vqe9hs2knm
+User: zgbodaynfjorzt
+Port: 5432
+Password: d2b11c0c6039df67f39d22f680fb92a843a1b652e3d5b692f6670c0a2abc2804
+URI: postgres://zgbodaynfjorzt:d2b11c0c6039df67f39d22f680fb92a843a1b652e3d5b692f6670c0a2abc2804@ec2-3-222-74-92.compute-1.amazonaws.com:5432/dfo2vqe9hs2knm

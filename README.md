@@ -45,7 +45,7 @@ Você então é convocado para solucionar tal desafio, e portanto deve <b> achar
 Para isso, acesse o banco de dados presente em sua empresa para fazer a coleta dos dados, e use os recursos ao seu alcance para solucionar o problema e apresentar as suas conclusões.
 
 ### Recursos
-Sua empresa contém um banco de dados relacional (Postgres) hospedado remotamente, cujo as credenciais de acesso serão enviadas por email. O banco contém a seguinte estrutura de tabelas e relações:
+Sua empresa contém um banco de dados relacional (Postgres) hospedado remotamente, com as credenciais de acesso listadas [aqui](db_access.txt). O banco contém a seguinte estrutura de tabelas e relações:
 
 <div align="center">
     <img src="images/db-uml.png">
